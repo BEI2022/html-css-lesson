@@ -1,0 +1,11 @@
+h1 {
+    color: #353579;
+}
+.bold-red {
+    color: red;
+    font-weight: bold;
+}
+
+.big {
+    font-size: 2rem;
+}
